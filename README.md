@@ -1,8 +1,10 @@
 
-# Code for On the Sample Complexity of Representation Learning in Multi-Task Bandits with
-Global and Local Structure
+# Code for On the Sample Complexity of Representation Learning in Multi-Task Bandits with Global and Local Structure
 
-**OSRL** (_Optimal Representation Learning in Multi-Task Bandits_) comprises an  algorithm that addresses the problem of _sample complexity with fixed confidence_ in Multi-Task Bandit problems.
+**OSRL** (_Optimal Representation Learning in Multi-Task Bandits_) comprises an  algorithm that addresses the problem of _sample complexity with fixed confidence_ in Multi-Task Bandit problems. Published at the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI23)
+
+**Author**: Alessio Russo
+
 
 The code contains not only the algorithm mentioned above, but also _KL-UCB_  [**1**], _D-Track and Stop_/_D-Track and Stop with challenger modification_ [**2**].
 

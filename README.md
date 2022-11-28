@@ -40,8 +40,7 @@ This will open the jupyter interface, where you can select which file to run.
 
 ## License
 
-Submitted to 36th Conference on Neural Information Processing Systems (NeurIPS 2022). Do not distribute.
-Once the paper has been accepted, all the code will be published on GitHub with [MIT](https://choosealicense.com/licenses/mit/) license.
+[MIT](https://choosealicense.com/licenses/mit/) license.
 
 ## References
 [**1**] Garivier, Aurélien, and Olivier Cappé. "The KL-UCB algorithm for bounded stochastic bandits and beyond." _Proceedings of the 24th annual conference on learning theory_. 2011.

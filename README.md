@@ -44,5 +44,5 @@ Submitted to 36th Conference on Neural Information Processing Systems (NeurIPS 2
 Once the paper has been accepted, all the code will be published on GitHub with [MIT](https://choosealicense.com/licenses/mit/) license.
 
 ## References
-[**1**] Garivier, Aur�lien, and Olivier Capp�. "The KL-UCB algorithm for bounded stochastic bandits and beyond." _Proceedings of the 24th annual conference on learning theory_. 2011.
-[**2**] Garivier, Aur�lien, and Emilie Kaufmann. "Optimal best arm identification with fixed confidence." _Conference on Learning Theory_. 2016.
+[**1**] Garivier, Aurélien, and Olivier Cappé. "The KL-UCB algorithm for bounded stochastic bandits and beyond." _Proceedings of the 24th annual conference on learning theory_. 2011.
+[**2**] Garivier, Aurélien, and Emilie Kaufmann. "Optimal best arm identification with fixed confidence." _Conference on Learning Theory_. 2016.
